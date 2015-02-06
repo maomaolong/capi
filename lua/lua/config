@@ -1,0 +1,8 @@
+width = 100
+height = 200
+BLUE = {r = 0,b = 1,g = 0}
+background = BLUE
+
+function f(a,b)
+	return a+b
+end
